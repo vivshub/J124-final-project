@@ -27,6 +27,7 @@ By Vivian Stacy
 
     1995 had the highest global suicide rate, peaking at 13.48 deaths per 100k people.
     
+    ![pivot2](question-2.png) 
     
 3.  Have global suicide rates been increasing or decreasing?
 
@@ -36,9 +37,15 @@ By Vivian Stacy
 
     Greenland has the highest suicide rates for both male and female, but the following three are all completely different. Russia, Lithuania, and Eastern Europe have the next highest male suicide rates, while Lesotho, India, and Zimbabwe have the next highest female suicide rates. The following pivot tables show the countries sorted first by male suicide rates, then by female, and the lists are made up of completely different countries/regions. 
 
+    ![pivot3](question-4-1.png)
+    ![pivot4](question-4-2.png)
+
 5. Which countries have higher suicide rates than shares of death, or vice versa?
 
     There are notable differences in data between the two forms of measuring suicide. Lithuania, with the second highest suicide rate in the world at 35.99 deaths per 100k, ranks 19 when measuring suicide as a share of total deaths for countries across the world. Lesotho, with the third highest suicide rate in the world ranks 23. 
+
+    ![pivot5](question-5.png)
+    ![pivot6](question-5-2.png)
 
 
 ### **Story pitch** 
