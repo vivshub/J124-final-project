@@ -21,8 +21,7 @@ By Vivian Stacy
 
     The countries with the highest average suicide rates are Greenland (74.42 deaths per 100k), Lithuania (35.99 deaths per 100k), and Lesotho (35.71 deaths per 100k). The countries with the lowest suicide rates are Jamaica (2.43), Syria (2.49), and Sao Tome and Principe (2.51). 
     
-    ![Pivot table](question 1.png)
-    ![Pivot table 2](question 1 pt 2.png)
+![pivot table](question 1.png)
 
 2. What year had the highest global suicide rates? 
 
