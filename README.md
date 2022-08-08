@@ -81,5 +81,5 @@ https://www.ojp.gov/ncjrs/virtual-library/abstracts/youth-suicide-and-problems-m
 
 ### **Visualization** 
 
-![Data viz map](U7gFy-which-countries-have-the-highest-suicide-rates-.png)
+[![Data viz map](U7gFy-which-countries-have-the-highest-suicide-rates-.png)](https://www.datawrapper.de/_/U7gFy/)
 
