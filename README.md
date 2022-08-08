@@ -79,6 +79,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266058/
 
 https://www.ojp.gov/ncjrs/virtual-library/abstracts/youth-suicide-and-problems-modernization-greenland-self-sufficiency 
 
+### **Visualization** 
 
-
+![Data viz map](U7gFy-which-countries-have-the-highest-suicide-rates-.png)
 
